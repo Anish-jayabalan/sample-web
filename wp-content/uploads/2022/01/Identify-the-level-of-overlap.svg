@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="120" height="120" transform="translate(1849 158)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Identify_the_level_of_overlap" data-name="Identify the level of overlap" transform="translate(-1849 -158)" clip-path="url(#clip-path)">
+    <g id="two-overlapping-square" transform="translate(1849 158)">
+      <g id="Group_51" data-name="Group 51" transform="translate(0 0)">
+        <g id="Group_49" data-name="Group 49">
+          <path id="Path_105" data-name="Path 105" d="M85.219,100.047V26.884a6.033,6.033,0,0,0-6.028-6.026H6.026A6.03,6.03,0,0,0,0,26.884v73.163a6.032,6.032,0,0,0,6.026,6.028H79.191A6.033,6.033,0,0,0,85.219,100.047Zm-6.1-5.346a5.282,5.282,0,0,1-5.274,5.274H11.376A5.282,5.282,0,0,1,6.1,94.7V32.232a5.278,5.278,0,0,1,5.274-5.27H73.843a5.278,5.278,0,0,1,5.274,5.27Z" transform="translate(0 -20.858)" fill="teal"/>
+        </g>
+        <g id="Group_50" data-name="Group 50" transform="translate(34.785 24.182)">
+          <path id="Path_106" data-name="Path 106" d="M216.064,116.011H191.831v7.825h18.887a3.547,3.547,0,0,1,3.547,3.549v62.466a3.548,3.548,0,0,1-3.547,3.547H148.249a3.555,3.555,0,0,1-3.551-3.547v-7.208h-7.821V195.2a6.034,6.034,0,0,0,6.022,6.03h73.165a6.036,6.036,0,0,0,6.028-6.03V122.037A6.032,6.032,0,0,0,216.064,116.011Z" transform="translate(-136.877 -116.011)" fill="#e9b237"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

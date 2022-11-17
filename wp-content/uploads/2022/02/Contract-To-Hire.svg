@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_46" data-name="Rectangle 46" width="100" height="100" transform="translate(336 2267)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Contract_To_Hire" data-name="Contract To Hire" transform="translate(-336 -2267)" clip-path="url(#clip-path)">
+    <path id="magnifying-glass" d="M70.584,117.64a46.8,46.8,0,0,0,31.073-11.81L118.5,122.663a2.945,2.945,0,1,0,4.164-4.164l-16.84-16.834A46.991,46.991,0,1,0,70.584,117.64Zm0-88.23A41.174,41.174,0,1,1,29.41,70.584,41.174,41.174,0,0,1,70.584,29.41ZM47.056,92.641a2.941,2.941,0,1,0,5.882,0,17.646,17.646,0,0,1,35.292,0,2.941,2.941,0,1,0,5.882,0A23.475,23.475,0,0,0,80.9,71.6a17.646,17.646,0,1,0-20.634,0,23.475,23.475,0,0,0-13.211,21.04ZM58.82,57.349A11.764,11.764,0,1,1,70.584,69.113,11.764,11.764,0,0,1,58.82,57.349Z" transform="translate(312.475 2243.411)" fill="#fff"/>
+  </g>
+</svg>

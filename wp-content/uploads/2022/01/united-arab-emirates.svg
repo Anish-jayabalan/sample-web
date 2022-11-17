@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="64" height="64" transform="translate(2518 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="united-arab-emirates" transform="translate(-2518 -147)" clip-path="url(#clip-path)">
+    <g id="united-arab-emirates-2" data-name="united-arab-emirates" transform="translate(2518.257 147.514)">
+      <path id="Path_440" data-name="Path 440" d="M149.73,366.73v-17.3h42.739a31.769,31.769,0,0,1-42.739,17.3Z" transform="translate(-131.164 -306.101)" fill="#282828" fill-rule="evenodd"/>
+      <path id="Path_441" data-name="Path 441" d="M18.566,23.043V80.814a31.754,31.754,0,0,1,0-57.771Z" transform="translate(0 -20.186)" fill="red" fill-rule="evenodd"/>
+      <path id="Path_442" data-name="Path 442" d="M192.656,20.651H149.73V2.857a31.768,31.768,0,0,1,42.926,17.794Z" transform="translate(-131.164 0)" fill="#00732f" fill-rule="evenodd"/>
+      <path id="Path_443" data-name="Path 443" d="M149.73,166.546h42.926a31.854,31.854,0,0,1-.187,22.677H149.73Z" transform="translate(-131.164 -145.895)" fill="#f5f5f5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

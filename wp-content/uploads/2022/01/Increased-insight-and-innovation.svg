@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="120" height="120" transform="translate(589 158)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Increased_insight_and_innovation" data-name="Increased insight and innovation" transform="translate(-589 -158)" clip-path="url(#clip-path)">
+    <g id="connection" transform="translate(589.755 168.05)">
+      <g id="Group_25" data-name="Group 25" transform="translate(-0.755 0)">
+        <g id="Group_24" data-name="Group 24">
+          <path id="Path_41" data-name="Path 41" d="M104.682,52.1A14.609,14.609,0,0,0,95.2,77.833l-13.736,26.1a14.573,14.573,0,0,0-12.223,2.183L58.787,96.685a14.619,14.619,0,1,0-23.338,2.892L19.877,122.836a14.66,14.66,0,1,0,5.341,3.585L40.79,103.162a14.568,14.568,0,0,0,13.687-1.7l10.453,9.429a14.619,14.619,0,1,0,22.221-3.953l13.736-26.1a14.618,14.618,0,1,0,3.8-28.734ZM14.618,144.658a8.187,8.187,0,1,1,8.187-8.187A8.2,8.2,0,0,1,14.618,144.658Zm31.43-46.945a8.186,8.186,0,1,1,8.187-8.186A8.2,8.2,0,0,1,46.049,97.713Zm23.433,20.334a8.187,8.187,0,1,1,8.187,8.187A8.2,8.2,0,0,1,69.482,118.047Zm35.2-43.139a8.187,8.187,0,1,1,8.187-8.187A8.2,8.2,0,0,1,104.682,74.908Z" transform="translate(0.699 -52.103)" fill="teal"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

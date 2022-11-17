@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="Group_12687" data-name="Group 12687" transform="translate(-363 1257)">
+    <rect id="Rectangle_8841" data-name="Rectangle 8841" width="512" height="512" transform="translate(363 -1257)" fill="#fff"/>
+    <g id="Group_1549" data-name="Group 1549" transform="translate(446.506 -1251)">
+      <path id="Path_24027" data-name="Path 24027" d="M246.842,744.551A126.789,126.789,0,1,1,120.048,871.338,126.787,126.787,0,0,1,246.842,744.551Z" transform="translate(-74.624 -622.632)" fill="#231f20" fill-rule="evenodd"/>
+      <path id="Path_24028" data-name="Path 24028" d="M239.1,750.114A113.492,113.492,0,1,1,125.615,863.6,113.487,113.487,0,0,1,239.1,750.114Z" transform="translate(-66.882 -614.895)" fill="#919396" fill-rule="evenodd"/>
+      <path id="Path_24031" data-name="Path 24031" d="M112.13,794.445h43.224V809.46H112.13V794.445Z" transform="translate(-85.636 -553.24)" fill="#231f20" fill-rule="evenodd"/>
+      <path id="Path_24032" data-name="Path 24032" d="M216.16,794.387h44.031v15.287H216.16V794.387Z" transform="translate(59.049 -553.32)" fill="#231f20" fill-rule="evenodd"/>
+      <path id="Path_24033" data-name="Path 24033" d="M169.884,988.833V841.16h15.3V988.833Z" transform="translate(-5.313 -488.269)" fill="#231f20" fill-rule="evenodd"/>
+      <path id="Path_24034" data-name="Path 24034" d="M169.884,841.229V693.556h15.3V841.229Z" transform="translate(-5.313 -693.556)" fill="#231f20" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

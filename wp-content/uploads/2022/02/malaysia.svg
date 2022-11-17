@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="64" height="64" transform="translate(2053 383)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="malaysia" transform="translate(-2053 -383)" clip-path="url(#clip-path)">
+    <g id="_36_Multicolor_Flag_mc_36_flag_malaysia" data-name="36 Multicolor / Flag / mc_36_flag_malaysia" transform="translate(2053.479 383.479)">
+      <g id="mc_36_flag_Malaysia">
+        <path id="Oval" d="M31.52,63.041A31.52,31.52,0,1,0,0,31.52,31.521,31.521,0,0,0,31.52,63.041Z" fill="#f0f0f0"/>
+        <path id="Shape" d="M57.949,12.127H29.685V3.9H50.676A31.7,31.7,0,0,1,57.949,12.127Zm4.627,16.461H29.685V20.365h31.8A31.552,31.552,0,0,1,62.575,28.588Zm-31.52,31.52a31.387,31.387,0,0,0,19.622-6.852H11.451A31.3,31.3,0,0,0,31.055,60.109Zm26.9-15.06H4.161A31.331,31.331,0,0,1,.62,36.826H61.493a31.312,31.312,0,0,1-3.541,8.223Z" transform="translate(0.466 2.932)" fill="#d80027" fill-rule="evenodd"/>
+        <path id="Path" d="M31.52,31.52V0A31.523,31.523,0,0,0,0,31.52Z" fill="#0052b4"/>
+        <path id="Shape_2" d="M9.576,15.072a7.8,7.8,0,0,0,11.5,6.857,9.593,9.593,0,1,1,0-13.715,7.8,7.8,0,0,0-11.5,6.857Zm11.391-2.59-1.4-2.893-1.373,2.893-3.126-.721,1.4,2.886-2.513,1.993,3.129.706-.009,3.208,2.5-2.007,2.5,2.007-.009-3.208,3.129-.706-2.513-1.993,1.4-2.886Z" transform="translate(3.59 4.115)" fill="#ffda44" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

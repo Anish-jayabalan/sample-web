@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="64" height="64" transform="translate(2213 558)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="turkey" transform="translate(-2213 -558)" clip-path="url(#clip-path)">
+    <g id="turkey-2" data-name="turkey" transform="translate(2213 558)">
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="32" cy="32" r="32" fill="#e53030"/>
+      <g id="Group_150" data-name="Group 150">
+        <path id="Path_473" data-name="Path 473" d="M45.49,33.508l3-3.86-4.622,1.3L41.162,26.68l-.214,5.094-4.51,1.272,4.384,1.734-.212,5,3.026-3.89,4.49,1.774Z" fill="#fff"/>
+        <path id="Path_474" data-name="Path 474" d="M30.852,42.95a10.534,10.534,0,0,1-10.3-10.766,10.54,10.54,0,0,1,10.3-10.764,8.8,8.8,0,0,1,8.434,4.854A11.324,11.324,0,0,0,28.162,18.78,12.946,12.946,0,0,0,15.508,32,12.94,12.94,0,0,0,28.162,45.218a10.184,10.184,0,0,0,9.936-5.55,7.618,7.618,0,0,1-7.246,3.282Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

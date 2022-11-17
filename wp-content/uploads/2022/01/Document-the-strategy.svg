@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="120" height="120" transform="translate(800 970)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Document_the_strategy" data-name="Document the strategy" transform="translate(-800 -970)" clip-path="url(#clip-path)">
+    <g id="document" transform="translate(814.297 970)">
+      <path id="Path_198" data-name="Path 198" d="M148.374,24.907l-22.6-21.38A12.84,12.84,0,0,0,116.916,0H73.891A12.905,12.905,0,0,0,61,12.891v94.219A12.905,12.905,0,0,0,73.891,120h65.625a12.905,12.905,0,0,0,12.891-12.891V34.271A12.943,12.943,0,0,0,148.374,24.907Zm-6.829,3.218h-17.5a1.173,1.173,0,0,1-1.172-1.172V10.462Zm-2.03,84.844H73.891a5.866,5.866,0,0,1-5.859-5.859V12.891a5.866,5.866,0,0,1,5.859-5.859h41.953V26.953a8.212,8.212,0,0,0,8.2,8.2h21.328v71.953A5.866,5.866,0,0,1,139.516,112.969Z" transform="translate(-61 0)" fill="teal"/>
+      <path id="Path_199" data-name="Path 199" d="M183.078,200H131.516a3.516,3.516,0,1,0,0,7.031h51.562a3.516,3.516,0,0,0,0-7.031Z" transform="translate(-112.297 -153.125)" fill="#e9b237"/>
+      <path id="Path_200" data-name="Path 200" d="M183.078,280H131.516a3.516,3.516,0,1,0,0,7.031h51.562a3.516,3.516,0,0,0,0-7.031Z" transform="translate(-112.297 -214.375)" fill="#e9b237"/>
+      <path id="Path_201" data-name="Path 201" d="M148.559,360H131.516a3.516,3.516,0,0,0,0,7.031h17.044a3.516,3.516,0,0,0,0-7.031Z" transform="translate(-112.297 -275.625)" fill="#e9b237"/>
+    </g>
+  </g>
+</svg>

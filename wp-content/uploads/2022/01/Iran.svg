@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="64" height="64" transform="translate(2597 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Iran" transform="translate(-2597 -147)" clip-path="url(#clip-path)">
+    <g id="_36_Multicolor_Flag_mc_36_flag_iran" data-name="36 Multicolor / Flag / mc_36_flag_iran" transform="translate(2597 147)">
+      <g id="mc_36_flag_Iran" transform="translate(0 0)">
+        <path id="Oval" d="M32,64A32,32,0,1,0,0,32,32,32,0,0,0,32,64Z" transform="translate(0 0)" fill="#f0f0f0"/>
+        <path id="Path" d="M32.96,13.3H28.772l.053,1.392A15.825,15.825,0,0,1,26.7,22.927a7.575,7.575,0,0,1-2.052,2.217V13.3H20.476v11.84a7.577,7.577,0,0,1-2.052-2.217A15.808,15.808,0,0,1,16.3,14.7l.053-1.392H12.169L12.128,14.7C12.128,23.277,16.711,30,22.564,30S33,23.283,33,14.7q0-.7-.041-1.392Z" transform="translate(9.433 10.348)" fill="#d80027"/>
+        <path id="Path_2" d="M11.829,15.307H16v2.782h4.174V15.307h4.174v2.782h4.174V15.307H32.7v2.782h4.174V15.307h4.174v2.782h4.174V15.307H49.4v2.782H59.441a32.016,32.016,0,0,0-57.655,0H11.83v-2.78Z" transform="translate(1.389 0)" fill="#6da544"/>
+        <path id="Path_3" d="M49.394,25.826v2.782H45.22V25.826H41.047v2.782H36.873V25.826H32.7v2.782H28.525V25.826H24.35v2.782H20.176V25.826H16v2.782H11.829V25.826H1.785a32.014,32.014,0,0,0,57.652,0H49.392Z" transform="translate(1.388 20.087)" fill="#d80027"/>
+      </g>
+    </g>
+  </g>
+</svg>

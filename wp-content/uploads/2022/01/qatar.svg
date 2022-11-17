@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="64" height="64" transform="translate(2434 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="qatar" transform="translate(-2434 -147)" clip-path="url(#clip-path)">
+    <g id="qatar-2" data-name="qatar" transform="translate(2434.024 147)">
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="31.484" cy="32" rx="31.484" ry="32" transform="translate(0.203)" fill="#f0f0f0"/>
+      <path id="Path_408" data-name="Path 408" d="M151.605,31.971A31.974,31.974,0,0,0,102.618,4.9l7.008,2.977L100.174,11.9l9.452,4.016-9.452,4.016,9.452,4.016-9.452,4.015,9.452,4.015-9.452,4.016L109.626,40l-9.452,4.015,9.452,4.016-9.452,4.016,9.452,4.015-7,2.976a31.974,31.974,0,0,0,48.984-27.071Z" transform="translate(-87.856)" fill="#751a46"/>
+    </g>
+  </g>
+</svg>

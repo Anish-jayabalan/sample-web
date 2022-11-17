@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="64" height="64" transform="translate(2305 383)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="sri-lanka" transform="translate(-2305 -383)" clip-path="url(#clip-path)">
+    <g id="sri-lanka-2" data-name="sri-lanka" transform="translate(2305.195 382.668)">
+      <path id="Path_456" data-name="Path 456" d="M0,44.522H0V98.215H0V44.522Z" transform="translate(-0.153 -38.904)" fill="#ff9811"/>
+      <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="32.5" cy="32" rx="32.5" ry="32" transform="translate(-0.195 0.332)" fill="#ffda44"/>
+      <path id="Path_457" data-name="Path 457" d="M93.457,44.522H82.2q-.748.511-1.465,1.063L77.914,71.368,80.74,97.151q.717.551,1.465,1.063H93.457Z" transform="translate(-68.176 -38.904)" fill="#ff9811"/>
+      <path id="Path_458" data-name="Path 458" d="M0,78.679a32.442,32.442,0,0,0,12.717,25.783V52.9A32.443,32.443,0,0,0,0,78.679Z" transform="translate(-0.153 -46.215)" fill="#6da544"/>
+      <path id="Path_459" data-name="Path 459" d="M411.826,156.064v.813l.03,0Z" transform="translate(-359.699 -136.287)" fill="#ffda44"/>
+      <path id="Path_460" data-name="Path 460" d="M266.474,79.846h-6.123l-2.59,2.826v5.652h-5.652V85.5h2.826V79.846H242.218v3.532h-2.826V76.646a4.227,4.227,0,0,1-1.413-3.159V55.119a4.239,4.239,0,0,1,4.239-4.239V77.02h5.652l1.939-1.616a6.759,6.759,0,0,1-.526-2.623V68.543h-4.239V60.065h8.478c0-1.413,2.12-2.826,2.12-2.826s2.119,1.413,2.119,2.826v8.478c1.572.019,4.07-.022,6.768,0a8.572,8.572,0,0,1-1.116-4.239,8.455,8.455,0,0,1,2.79-6.286,32.629,32.629,0,0,0-11.32-13.5H233.74V98.215h21.143a32.57,32.57,0,0,0,12.709-17.149Z" transform="translate(-204.22 -38.905)" fill="#a2001d"/>
+    </g>
+  </g>
+</svg>

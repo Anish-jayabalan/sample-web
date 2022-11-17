@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="64" height="64" transform="translate(2681 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="oman" transform="translate(-2681 -147)" clip-path="url(#clip-path)">
+    <g id="_36_Multicolor_Flag_mc_36_flag_oman" data-name="36 Multicolor / Flag / mc_36_flag_oman" transform="translate(2681 147)">
+      <g id="mc_36_flag_Oman" transform="translate(0)">
+        <path id="Oval" d="M32,64A32,32,0,1,0,0,32,32,32,0,0,0,32,64Z" transform="translate(0)" fill="#f0f0f0"/>
+        <g id="Group" transform="translate(0 3.893)">
+          <path id="Path" d="M0,30.3A31.984,31.984,0,0,0,16.693,58.4V2.19A31.99,31.99,0,0,0,0,30.3Z" transform="translate(0 -2.19)" fill="#d80027"/>
+          <path id="Path_2" d="M62.009,34a32.1,32.1,0,0,0,0-22.26H1.991A32.107,32.107,0,0,0,1.991,34L32,36.783,62.009,34Z" transform="translate(0 5.237)" fill="#d80027"/>
+        </g>
+        <path id="Path_3" d="M31.129,45.131A32.009,32.009,0,0,0,61.138,24.26H1.12A32.009,32.009,0,0,0,31.129,45.131Z" transform="translate(0.871 18.869)" fill="#6da544"/>
+        <path id="Path_4" d="M0,31.518a32.012,32.012,0,0,0,23.652,30.9V.62A32.012,32.012,0,0,0,0,31.518Z" transform="translate(0 0.482)" fill="#d80027"/>
+        <path id="Path_5" d="M15.315,9.211,12.364,6.26,10.4,8.228,8.431,6.26,5.48,9.211l1.968,1.968L5.48,13.147,8.431,16.1,10.4,14.13,12.367,16.1l2.951-2.951L13.35,11.179Z" transform="translate(4.262 4.869)" fill="#f0f0f0"/>
+      </g>
+    </g>
+  </g>
+</svg>

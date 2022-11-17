@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="64" height="64" transform="translate(2355 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="kuwait" transform="translate(-2355 -147)" clip-path="url(#clip-path)">
+    <g id="kuwait-2" data-name="kuwait" transform="translate(2355 147.028)">
+      <path id="Path_404" data-name="Path 404" d="M61.955,169.717a32.088,32.088,0,0,0,0-22.241L31.972,144.7l-29.983,2.78a32.088,32.088,0,0,0,0,22.241l29.983,2.78Z" transform="translate(0 -126.625)" fill="#f0f0f0"/>
+      <path id="Path_405" data-name="Path 405" d="M45.905,365.894a31.983,31.983,0,0,0,29.983-20.851H15.922A31.983,31.983,0,0,0,45.905,365.894Z" transform="translate(-13.933 -301.951)" fill="#d80027"/>
+      <path id="Path_406" data-name="Path 406" d="M45.905,0A31.983,31.983,0,0,0,15.922,20.851H75.888A31.983,31.983,0,0,0,45.905,0Z" transform="translate(-13.933)" fill="#6da544"/>
+      <path id="Path_407" data-name="Path 407" d="M9.364,74.98a31.972,31.972,0,0,0,0,45.215l11.487-11.487V86.467Z" transform="translate(0 -65.616)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="64" height="64" transform="translate(2271 147)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="jordan" transform="translate(-2271 -147)" clip-path="url(#clip-path)">
+    <g id="jordan-2" data-name="jordan" transform="translate(2270.967 148)">
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="32" cy="31.5" rx="32" ry="31.5" transform="translate(0.033)" fill="#f0f0f0"/>
+      <path id="Path_400" data-name="Path 400" d="M84.924,20.52h41.818a31.468,31.468,0,0,0-51.753-11.3Z" transform="translate(-65.351)"/>
+      <path id="Path_401" data-name="Path 401" d="M84.924,345.043h41.818a31.468,31.468,0,0,1-51.753,11.3Z" transform="translate(-65.351 -302.636)" fill="#6da544"/>
+      <path id="Path_402" data-name="Path 402" d="M9.215,74.98a31.464,31.464,0,0,0,0,44.5L31.463,97.228Z" transform="translate(0.422 -65.765)" fill="#d80027"/>
+      <path id="Path_403" data-name="Path 403" d="M51.538,200.348l1.727,3.611,3.9-.9-1.746,3.6,3.136,2.487-3.9.88.011,4-3.122-2.5-3.122,2.5.011-4-3.9-.88,3.136-2.487-1.746-3.6,3.9.9Z" transform="translate(-38.628 -175.725)" fill="#f0f0f0"/>
+    </g>
+  </g>
+</svg>
